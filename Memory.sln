@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memory", "Memory\Memory\Memory.csproj", "{C3370851-A65E-4D3F-B557-2FC608983D0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryContent", "Memory\MemoryContent\MemoryContent.contentproj", "{F664A000-43E5-4389-8BE3-32C155CDBFBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicGameLibrary", "..\..\..\BasicGameLibrary\BasicGameLibrary\BasicGameLibrary.csproj", "{98C7B887-DD00-4885-8AF2-AAD2FABEAC6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3370851-A65E-4D3F-B557-2FC608983D0B}.Debug|x86.ActiveCfg = Debug|x86
+		{C3370851-A65E-4D3F-B557-2FC608983D0B}.Debug|x86.Build.0 = Debug|x86
+		{C3370851-A65E-4D3F-B557-2FC608983D0B}.Release|x86.ActiveCfg = Release|x86
+		{C3370851-A65E-4D3F-B557-2FC608983D0B}.Release|x86.Build.0 = Release|x86
+		{F664A000-43E5-4389-8BE3-32C155CDBFBA}.Debug|x86.ActiveCfg = Debug|x86
+		{F664A000-43E5-4389-8BE3-32C155CDBFBA}.Release|x86.ActiveCfg = Release|x86
+		{98C7B887-DD00-4885-8AF2-AAD2FABEAC6F}.Debug|x86.ActiveCfg = Debug|x86
+		{98C7B887-DD00-4885-8AF2-AAD2FABEAC6F}.Debug|x86.Build.0 = Debug|x86
+		{98C7B887-DD00-4885-8AF2-AAD2FABEAC6F}.Release|x86.ActiveCfg = Release|x86
+		{98C7B887-DD00-4885-8AF2-AAD2FABEAC6F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
